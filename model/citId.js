@@ -4,7 +4,7 @@ const schema = mongoose.Schema
 
 const ObjectId = schema.ObjectId
 
-const cityDetails = {
+const cityDetails = new schema {
     id:ObjectId,
     name:{type:String},
     city:{type:String},

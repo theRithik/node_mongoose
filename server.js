@@ -48,6 +48,6 @@ app.put('/updateDetails',(req,response)=>{
     })
 })
 
-app.listen(4004, ()=>{
+app.listen(3000, ()=>{
     console.log('running in port number 4004')
 })

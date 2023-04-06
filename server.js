@@ -49,6 +49,5 @@ app.put('/updateDetails',(req,response)=>{
 })
 
 app.listen(3000, ()=>{
-    console.log('running in port number 3000
-          ')
+    console.log('running in port number 3000 ')
 })

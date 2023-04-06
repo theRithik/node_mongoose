@@ -8,5 +8,4 @@ const cityDetail = {
     city:{type:String},
     country:{type:String}
 }
-
 module.exports = mongoose.model('cityDetail', cityDetail,'cityDetail')
